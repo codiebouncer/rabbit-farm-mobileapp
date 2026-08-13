@@ -1,6 +1,6 @@
 # Rabbit Farm Mobile App
 
-Flutter client for GreenBurrow Rabbit Farm.
+Flutter client for Abowoso Rabbit Farm.
 
 ## API environment
 
