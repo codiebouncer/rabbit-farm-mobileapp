@@ -1,0 +1,6 @@
+{
+  "java.import.gradle.java.home": "/Applications/Android Studio.app/Contents/jbr/Contents/Home",
+  "dart.flutterRunAdditionalArgs": [
+    "--dart-define=API_BASE_URL=http://127.0.0.1:5139/api"
+  ]
+}

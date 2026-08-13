@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Rabbit Farm (iOS/local)",
+      "request": "launch",
+      "type": "dart",
+      "toolArgs": ["--dart-define=API_BASE_URL=http://127.0.0.1:5139/api"]
+    },
+    {
+      "name": "Rabbit Farm (Android emulator)",
+      "request": "launch",
+      "type": "dart",
+      "toolArgs": ["--dart-define=API_BASE_URL=http://10.0.2.2:5139/api"]
+    }
+  ]
+}
